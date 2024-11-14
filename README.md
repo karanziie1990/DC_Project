@@ -23,4 +23,4 @@ The Hand Gesture Controlled Game allows players to interact with the game using 
 ## Team Member
 - Karan Ganeshwala
 - Chintan Vala
-"# DC_Project" 
+
