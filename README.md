@@ -13,7 +13,7 @@ The Hand Gesture Controlled Game allows players to interact with the game using 
    ```bash
    git clone https://github.com/karanziie1990/DC_Project.git
 2. ```bash
-   cd CSL2060_Course_Project
+   cd DC_Project
 3. ```bash
    pip install -r requirements.txt
 4. ```bash
