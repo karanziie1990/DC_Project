@@ -24,3 +24,5 @@ The Hand Gesture Controlled Game allows players to interact with the game using 
 - Karan Ganeshwala
 - Chintan Vala
 
+## Working Links
+Explaining the Working of the Project and Running the Project Videos: <a href="https://drive.google.com/drive/folders/1OgFZnNDu8pYYi9zyneklD7kfTd3NjyFH?usp=sharing" target="_blank">Video's Link</a>
